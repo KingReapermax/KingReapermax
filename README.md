@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingReapermax
 - 👀 I’m interested in reading novels, watching movies and web-series, and a little bit of coding 
-- 🌱 I’m currently learning cpp (for competetive programming) and python (for machine learning)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development things (js, node.js, express.js, react.js, postgresql, etc), and machine learning (sometimes).
+- 💞️ I’m looking to collaborate on any project related to any of the above fields.
 - 📫 How to reach me at instagram: @i.k.s.h.w.a.k & email: @ikshwakgunnoju@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
